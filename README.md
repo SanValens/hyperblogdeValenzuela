@@ -8,7 +8,8 @@ Un blog random
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi Team
 
+Este es un texto solo para cambiar la estructura
 
 
 
-Este es mi README.md, basicamente me dio pereza hacer algo mas...algo menos mediocre, sorry ♥
+Este es mi README.md, basicamente me dio pereza hacer algo mas...algo menos mediocre, sorry ♥x
